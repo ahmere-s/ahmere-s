@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there :robot:
 
+My name is TeJhon - I'm currently pursuing a B.S. in Computer Science at Frostburg State University(2025-2028). 
+
+I have a deepening curiosity in computer architecture and embedded systems. In early 2026 I became an active member of FLAIR, an NSF sponsored AI and Robotics lab at FSU. 
+
+I'm most comfortable in C, C++, Python, Java, and Go. Currently planning a project pairing FreeRTOS on a microcontroller with computer vision and mission logic on a companion computer, communicating over CAN.
+
+:mailbox: [LinkedIn](https://linkedin.com/in/tejhon)   
 <!--
 **ahmere-s/ahmere-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
