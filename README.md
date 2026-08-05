@@ -4,9 +4,9 @@ My name is TeJhon - I'm currently pursuing a B.S. in Computer Science at Frostbu
 
 I focus on backend engineering with a deepening curiosity in machine learning. In early 2026 I became an active member of FLAIR, an NSF sponsored AI and Robotics lab at FSU.  
 
-I'm most comfortable using these languages: C, C++, Python, Bash, SQL
+I'm most comfortable using: C, C++, Python, Bash, SQL
 
-I'm also familiar with: Go, Java, TypeScript, Lua, HTML, CSS 
+I'm familiar with: Go, Java, TypeScript, Lua, HTML, CSS 
 
 :mailbox: [Click here to message me on LinkedIn](https://linkedin.com/in/tejhon)   
 <!--
