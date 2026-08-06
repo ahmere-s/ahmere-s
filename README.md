@@ -8,7 +8,7 @@ I'm most comfortable using: C, C++, SQL, Bash
 
 I'm familiar with: Python, TypeScript, Go, Java, Lua, HTML, CSS 
 
-:mailbox: [Click here to message me on LinkedIn](https://linkedin.com/in/tejhon)   
+:mailbox: [Click here to connect on LinkedIn](https://linkedin.com/in/tejhon)   
 <!--
 **ahmere-s/ahmere-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
