@@ -6,7 +6,7 @@ I focus on backend engineering with a deepening curiosity in machine learning. I
 
 I'm most comfortable using: C++
 
-I'm familiar with: Assembly, C, Bash, Python, TypeScript, JavaScript, SQL, HTML, CSS 
+I'm familiar with: Assembly, C, Python, TypeScript 
 
 :mailbox: [Click here to connect on LinkedIn](https://linkedin.com/in/tejhon)   
 <!--
