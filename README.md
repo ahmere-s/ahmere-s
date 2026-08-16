@@ -6,7 +6,7 @@ I focus on backend engineering. In early 2026 I became an active member of FLAIR
 
 I'm most comfortable using C++.
 
-I'm familiar with: Assembler, C, Python, TypeScript
+I'm familiar with: Assembler, C, Python, TypeScript, Bash, SQL, HTML, CSS
 
 :mailbox: [Click here to connect on LinkedIn](https://linkedin.com/in/tejhon)   
 <!--
