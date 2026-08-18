@@ -5,10 +5,15 @@ My name is TeJhon - I'm currently pursuing a B.S. in Computer Science at Frostbu
 In early 2026 I became an active member of FLAIR, an NSF supported AI and Robotics laboratory at my university.
 
 Programming languages I chose to focus with:
+
 C - as my foundation
+
 C++ - as my primary
+
 ASM - as a reasoning skill
+
 Python - as a tool (research, testing, scripting)
+
 JavaScript/TypeScript - when necessary
 
 :mailbox: [Click here to connect on LinkedIn](https://linkedin.com/in/tejhon)   
